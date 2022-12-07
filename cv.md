@@ -3,10 +3,10 @@
 - - - - - - - - - - - - - - 
 
 # Contacts:
-- **Location:** Minsk, Belarus
-- **Tel:** +375299415862
-- **E-mail:** yaugenkosach@gmail.com
-- **Discord:** Yaugen (#Yaugenkosach)
+* **Location:** Minsk, Belarus
+* **Tel:** +375299415862
+* **E-mail:** yaugenkosach@gmail.com
+* **Discord:** Yaugen (#Yaugenkosach)
 
 - - - - - - - - - - - - - - 
 
@@ -16,8 +16,8 @@ Until 2022, I knew practically nothing about either the frontend or other areas 
 - - - - - - - - - - - - - - 
 
 # Skills:
-- Git
-- VSCode
+* Git
+* VSCode
 
 - - - - - - - - - - - - - - 
 
@@ -36,9 +36,9 @@ Not yet
 - - - - - - - - - - - - - 
 
 # Education:
-- RS School JS/FE Pre-School 2022Q4 (studying now)
+* RS School JS/FE Pre-School 2022Q4 (studying now)
 
 - - - - - - - - - - - - -
 
 # Language:
-- English level A2 (studying now)
+* English level A2 (studying now)
