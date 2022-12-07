@@ -1,4 +1,5 @@
 # **Yaugen Kosach**
+-----------------------
 # Contacts:
 - **Location:** Minsk, Belarus
 - **Tel:** +375299415862
@@ -11,6 +12,7 @@ Until 2022, I knew practically nothing about either the frontend or other areas 
 # Skills:
 - Git
 - VSCode
+---------------------------
 # Code example:
 ```
   <script>
