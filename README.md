@@ -1,1 +1,1 @@
-https://Yaugenkosach.github.io/rsschool-cv/
+https://Yaugenkosach.github.io/rsschool-cv/cv
