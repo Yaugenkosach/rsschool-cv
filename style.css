@@ -5,11 +5,20 @@
 
    body {
     font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
     min-height: 100vh;
     margin: 0; padding: 0;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background: url(./assets\img\background.jpg) no-repeat 500px 500px;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
   }
 
   * {
@@ -50,4 +59,45 @@
     color: #DCDBDA;
     text-decoration: none;
     transition: color 0.5s;
+  }
+
+  .nav-link:hover {
+    color: #ECD61D;
+  }
+
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .section {
+    width: 50%;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+  .section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #ECD61D;
+  }
+
+  .link {
+    text-decoration: none;
+    color: #DCDBDA;
+    transition: color 0.5s;
+  }
+  
+  .link:hover {
+    color: #ECD61D;
+  }
+
+  .round {
+    border-radius: 300px;
   }
