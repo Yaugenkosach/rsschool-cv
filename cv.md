@@ -11,21 +11,29 @@
 - - - - - - - - - - - - - - 
 
 # About myself:
-Until 2022, I knew practically nothing about either the frontend or other areas in IT. On a tip from a friend, I learned about Rolling Scopes School. Now every day I pump my brains and learn a lot of new things.
+Until 2022, I knew practically nothing about either the frontend or other areas in IT. On a tip from a friend, I learned about Rolling Scopes School. I passed the RSS preparatory course and continue to pump my brains and learn new things.
 
 - - - - - - - - - - - - - - 
 
 # Skills:
 * Git
+* GitHub
 * VSCode
+* HTML
+* CSS
+* JS
 
 - - - - - - - - - - - - - - 
 
 # Code example:
 ```
-  <script>
-    alert( 'Hello, RS-School!' );
-  </script>
+function explode(s) {
+  let result = '';
+  for (let i = 0; i < s.length; i++) {
+    result = `${result}${s[i].repeat(Number(s[i]))}`
+  }
+  return result;
+}
 ```
 
 - - - - - - - - - - - - - 
