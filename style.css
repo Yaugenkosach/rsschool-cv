@@ -60,10 +60,8 @@
   .section {
     display: inline-grid;
     width: calc(50% - 20px);
-    height: 300px;
     padding: 2rem;
     margin: 0;
-    padding-bottom: 30px;
     border-bottom: 1px solid #b2c987;
   }
 

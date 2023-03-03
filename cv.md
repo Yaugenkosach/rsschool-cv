@@ -36,7 +36,7 @@ Not yet
 - - - - - - - - - - - - - 
 
 # Education:
-* RS School JS/FE Pre-School 2022Q4 (studying now)
+* RS School JS/FE Pre-School 2022Q4
 
 - - - - - - - - - - - - -
 
