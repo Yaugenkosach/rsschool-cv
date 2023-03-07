@@ -44,7 +44,7 @@ Not yet
 - - - - - - - - - - - - - 
 
 # Education:
-* RS School JS/FE Pre-School 2022Q4
+* RS School JS/FE Pre-School 2022Q4 ([certificate](https://app.rs.school/certificate/p3frfu3h))
 
 - - - - - - - - - - - - -
 

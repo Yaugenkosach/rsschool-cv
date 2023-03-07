@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="assets/favicon.ico">
-    <link rel="preconnect" href="https://fonts.gstatic.com">  
+    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
     <title>cv</title>
 </head>
@@ -29,7 +29,10 @@
     <div class="container main-container">
       <section class="section" id="profile">
         <img class="user__img" src="assets/img/image.jpg" width="200" height="200" alt="my photo">
-        <h1 class="section-title" id="name">Yaugen Kosach</h1>
+        <div class="profile-name">
+          <h1 class="section-title" id="name">Yaugen Kosach</h1>
+        <p class="profile-info">Junior Frontend Developer</p>
+        </div>
       </section>
       <section class="section" id="contacts">
         <h2 class="section-title">Contacts</h2>
@@ -52,30 +55,36 @@
       </section>
       <section class="section" id="summary">
         <h2 class="section-title">About myself</h2>
-        <p>Until 2022, I knew practically nothing about either the frontend or other areas in IT. On a tip from a friend, I learned about Rolling Scopes School. Now every day I pump my brains and learn a lot of new things.</p>
+        <p>Until 2022, I knew practically nothing about either the frontend or other areas in IT. On a tip from a friend, I learned about Rolling Scopes School. I passed the RSS preparatory course and continue to pump my brains and learn new things.</p>
       </section>
       <section class="section" id="skills">
         <h2 class="section-title">Skills</h2>
         <ul class="section-list">
           <li class="skills-item">Git</li>
+          <li class="skills-item">GitHub</li>
           <li class="skills-item">VSCode</li>
           <li class="skills-item">HTML</li>
           <li class="skills-item">CSS</li>
+          <li class="skills-item">JS</li>
         </ul>
       </section>
       <section class="section" id="code">
         <h2 class="section-title">Code example</h2>
         <pre class="pre">
           <code>
-            <span>script</span>
-            alert( 'Hello, RS-School!' );
-            <span>/script</span>
-          </code>
+    function explode(s) {
+      let result = '';
+      for (let i = 0; i < s.length; i++) {
+        result = `${result}${s[i].repeat(Number(s[i]))}`
+      }
+      return result;
+    };
+  </code>
         </pre>
       </section>
       <section class="section" id="education">
         <h2 class="section-title">Education</h2>
-        <p>RS School JS/FE Pre-School 2022Q4 (studying now)</p>
+        <p>RS School JS/FE Pre-School 2022Q4 (<a href="https://app.rs.school/certificate/p3frfu3h" class="link" title="certificate">certificate</a>)</p>
       </section>
       <section class="section" id="language">
         <h2 class="section-title">Language</h2>
@@ -86,8 +95,9 @@
   <footer class = "footer">
     <div class="container footer-container">
       <div>
+        <time datetime="2023" class="footer-date-link">2023</time>
         &#169;
-        <a href="https://github.com/Yaugenkosach" class="link">Yaugenkosach</a>
+        <a href="https://github.com/Yaugenkosach" class="link">Github</a>
       </div>
       <a href="https://rs.school/js/" class="rss"></a>
     </div>
