@@ -36,7 +36,7 @@
   }
 
   html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
   }
 
   .nav-link {
@@ -131,6 +131,12 @@
     margin: 0;
   }
 
+  .profile-info {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+  }
+
   .pre {
     padding: 0;
     margin: 0;
@@ -146,6 +152,11 @@
     background-image: url(assets/img/logo.png);
     background-size: contain;
     background-repeat: no-repeat;
+    opacity: 80%;
+  }
+
+  .rss:hover {
+    opacity: 100%;
   }
 
   .footer-container {
