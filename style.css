@@ -56,7 +56,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  
+
   .section {
     display: inline-grid;
     width: calc(50% - 20px);
@@ -101,7 +101,7 @@
     color: #DCDBDA;
     transition: color 0.5s;
   }
-  
+
   .link:hover {
     color: #ECD61D;
   }

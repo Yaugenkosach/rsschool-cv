@@ -1,6 +1,6 @@
 # **Yaugen Kosach**
 
-- - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
 
 # Contacts:
 * **Location:** Minsk, Belarus
@@ -8,12 +8,12 @@
 * **E-mail:** yaugenkosach@gmail.com
 * **Discord:** Yaugen (#Yaugenkosach)
 
-- - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
 
 # About myself:
 Until 2022, I knew practically nothing about either the frontend or other areas in IT. On a tip from a friend, I learned about Rolling Scopes School. I passed the RSS preparatory course and continue to pump my brains and learn new things.
 
-- - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
 
 # Skills:
 * Git
@@ -23,7 +23,7 @@ Until 2022, I knew practically nothing about either the frontend or other areas 
 * CSS
 * JS
 
-- - - - - - - - - - - - - - 
+- - - - - - - - - - - - - -
 
 # Code example:
 ```
@@ -36,12 +36,12 @@ function explode(s) {
 }
 ```
 
-- - - - - - - - - - - - - 
+- - - - - - - - - - - - -
 
 # Work experience:
 Not yet
 
-- - - - - - - - - - - - - 
+- - - - - - - - - - - - -
 
 # Education:
 * RS School JS/FE Pre-School 2022Q4 ([certificate](https://app.rs.school/certificate/p3frfu3h))
